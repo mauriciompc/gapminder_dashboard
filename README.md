@@ -1,6 +1,6 @@
 # Gapminder Dashboard
 
-My dashboard with Quarto. Part of my study with diferent tools in Data Analysis.
+My dashboard with Quarto. Part of my study with different tools in Data Analysis.
 
 RStudio version = 2025.05.1+513
 
